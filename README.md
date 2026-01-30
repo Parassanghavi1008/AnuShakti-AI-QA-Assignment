@@ -16,10 +16,10 @@ AnuShakti AI helps users retrieve information from AERB publications with:
 - `Screenshots/` – Relevant screenshots from test execution (errors, outputs, etc.)
 
 ## 📌 Links to Documents
-- **Test Scenarios & Detailed Test Cases (Execution Status):** [https://docs.google.com/spreadsheets/d/1emMeiEJaYMMuyG9yjflTHtcnS_iEwfbLnuCrfCAOcsQ/edit?gid=0#gid=0]  
-- **Bug Report:** [https://docs.google.com/spreadsheets/d/1mSiuWnv0djRY7mtY2QbfV2GtyzRWHDCr1Qfh3egZzPw/edit?usp=sharing]  
-- **Test Summary Report (PDF/Doc):** [https://docs.google.com/document/d/1DaRBYnrzGfSL_KyaMPZr3oXcU8izCNwhqjcYd8mzuAg/edit?usp=sharing]  
-- **Screenshots:** [https://drive.google.com/drive/folders/16YxKScVnjwWlWBiPaBCu_a3yMusRIkMc?usp=sharing]
+- **Test Scenarios & Detailed Test Cases (Execution Status):** [Click me](https://docs.google.com/spreadsheets/d/1emMeiEJaYMMuyG9yjflTHtcnS_iEwfbLnuCrfCAOcsQ/edit?gid=0#gid=0)
+- **Bug Report:** [Click me](https://docs.google.com/spreadsheets/d/1mSiuWnv0djRY7mtY2QbfV2GtyzRWHDCr1Qfh3egZzPw/edit?usp=sharing)  
+- **Test Summary Report (PDF/Doc):** [Click me](https://docs.google.com/document/d/1DaRBYnrzGfSL_KyaMPZr3oXcU8izCNwhqjcYd8mzuAg/edit?usp=sharing) 
+- **Screenshots:** [Click me](https://drive.google.com/drive/folders/16YxKScVnjwWlWBiPaBCu_a3yMusRIkMc?usp=sharing)
 
 ## 📌 Key Highlights
 - Focused on **core product functionality and risk-based testing**
