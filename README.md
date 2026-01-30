@@ -16,10 +16,10 @@ AnuShakti AI helps users retrieve information from AERB publications with:
 - `Screenshots/` – Relevant screenshots from test execution (errors, outputs, etc.)
 
 ## 📌 Links to Documents
-- **Test Scenarios & Detailed Test Cases (Execution Status):** [Paste link here]  
-- **Defect / Bug Report:** [Paste link here]  
-- **Test Summary Report (PDF/Doc):** [Paste link here]  
-- **Screenshots:** [Paste link here]
+- **Test Scenarios & Detailed Test Cases (Execution Status):** [https://docs.google.com/spreadsheets/d/1emMeiEJaYMMuyG9yjflTHtcnS_iEwfbLnuCrfCAOcsQ/edit?gid=0#gid=0]  
+- **Bug Report:** [https://docs.google.com/spreadsheets/d/1mSiuWnv0djRY7mtY2QbfV2GtyzRWHDCr1Qfh3egZzPw/edit?usp=sharing]  
+- **Test Summary Report (PDF/Doc):** [https://docs.google.com/document/d/1DaRBYnrzGfSL_KyaMPZr3oXcU8izCNwhqjcYd8mzuAg/edit?usp=sharing]  
+- **Screenshots:** [https://drive.google.com/drive/folders/16YxKScVnjwWlWBiPaBCu_a3yMusRIkMc?usp=sharing]
 
 ## 📌 Key Highlights
 - Focused on **core product functionality and risk-based testing**
